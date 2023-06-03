@@ -1,0 +1,52 @@
+Coappear
+Belong
+Singer songwriter,Human
+drama movie,movie
+Military officers,Human
+attorney,Human
+Author of novels,Human
+playwriters,Human
+Physicist,Human
+Politician,Human
+Songwriting,Human
+music production (music industry),Human
+list of famous engineer,Human
+Association football manager,Human
+Academic economist,Human
+Association football player,Human
+Photog,Human
+timothy thompson (composer),Human
+guitarrist,Human
+philosophers,Human
+Auther,Writter
+Communities in England,village
+Association football manager,Association football player
+catholisism,Human
+amateur historian,Human
+Matematiker,Human
+service comedy,movie
+architect,Human
+👨🏽‍🎨,Human
+Television actor,Human
+female model,Television actor
+Film Directors,Human
+Judge (United States),attorney
+music career,Human
+television host,Human
+history of the novel,wikipedia books/sandbox
+Judge (United States),Human
+Auther,Human
+attorney,Politician
+poetess,Human
+priest (christianity),Human
+Writter,Human
+Service personnel,Human
+Phyſician,Human
+screen-writer,Human
+Business persons,Human
+Painoist,Human
+career diplomat,Human
+female model,Human
+Political journalists,Human
+music production (music industry),timothy thompson (composer)
+hollywood producer,Human
