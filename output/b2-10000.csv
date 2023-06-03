@@ -1,0 +1,13 @@
+Human,father,Human
+Human,sibling,Human
+Human,spouse,Human
+Human,child,Human
+movie,screenwriter,Human
+movie,producer,Human
+movie,director,Human
+movie,director,Film Directors
+movie,cast member,Human
+movie,cast member,Television actor
+Taxxon,parent taxon,Taxxon
+wikipedia books/sandbox,author,Human
+audio album,performer,Human

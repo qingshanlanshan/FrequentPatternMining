@@ -1,0 +1,19 @@
+movie,composer,timothy thompson (composer)
+movie,composer,Human
+movie,cast member,Human
+movie,cast member,Television actor
+movie,director,Human
+movie,director,Film Directors
+movie,producer,Human
+movie,screenwriter,Human
+movie,screenwriter,screen-writer
+Human,family name,last names
+Human,father,Human
+Taxxon,parent taxon,Taxxon
+Human,sibling,Human
+Human,child,Human
+Human,mother,Human
+Human,spouse,Human
+audio album,performer,Human
+wikipedia books/sandbox,author,Human
+Train station,adjacent station,Train station
